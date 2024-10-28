@@ -153,8 +153,8 @@
     <ClCompile Include="Record.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\SYSCPPCP\SYSCPPCPheaders\Database.h" />
-    <ClInclude Include="..\..\SYSCPPCP\SYSCPPCPheaders\Record.h" />
+    <ClInclude Include="..\..\SYSCPPCP\SYSCPPCP\SYSCPPCPheaders\Database.h" />
+    <ClInclude Include="..\..\SYSCPPCP\SYSCPPCP\SYSCPPCPheaders\Record.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
